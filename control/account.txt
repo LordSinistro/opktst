@@ -1,0 +1,6 @@
+master Latam - ROla: Freya/Nidhogg/Yggdrasil
+server
+username
+password
+loginPinCode
+char
